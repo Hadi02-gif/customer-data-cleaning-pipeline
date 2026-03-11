@@ -22,6 +22,8 @@ Raw data is rarely ready for analysis. This project demonstrates a comprehensive
 
 ## 📊 Visual Highlight
 ![Binning Visualization](bin_dist.png)
-*Example of step 7: Visualizing the binned 'Customer Annual Income' segments.*
+
+*Example of step 7: Visualizing the binned 'Customer Annual Income' segments.* 
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/customer-data-cleaning-pipeline/blob/main/ Cleaning a messy dataset (e.g., customer data).ipynb)
